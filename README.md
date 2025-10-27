@@ -8,7 +8,6 @@ PW:0000
 
 # This project is no longer updated and has been adapted to most possible future versions
 
-
 ## 修改 APK 教程
 
 ### 1️⃣ Fork 本仓库
@@ -35,12 +34,15 @@ PW:0000
 1. 打开 `classes.dex` 文件
 2. 全局搜索以下字符串：
 
-https://fish.enlysure.com
+```https://fish.enlysure.com
+
+```
+
 
 
 3. 将其替换为：
+4. 你的仓库地址/raw/master
 
-你的仓库地址/raw/master
 
 
 ✅ 示例：
